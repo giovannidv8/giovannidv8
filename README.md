@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello there :star: :collision:
+(... General Kenobi)
 
+📫 **How to reach me**:<br><br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-del-vecchio-2293b7218/)
+&nbsp;<br><br>
+`delvecchio.g@outlook.com`
 <!--
 **giovannidv8/giovannidv8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
