@@ -36,12 +36,14 @@
 <details>
   <summary><b>:brain: &nbsp;Other knowledge</b></summary>
   <br/>
-
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MacOS](https://img.shields.io/badge/MACOS-EFEFFF?style=flat-square&logo=apple&logoColor=grey)
-![WINDOWS](https://img.shields.io/badge/WINDOWS-31A8FF?style=flat-square&logo=windows&logoColor=white)
+  
+![Quantum Computing](https://img.shields.io/badge/QUANTUM_COMPUTING-333BBB?style=flat&logo=dwavesystems&logoColor=black)&nbsp;
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![MacOS](https://img.shields.io/badge/MACOS-EFEFFF?style=flat-square&logo=apple&logoColor=grey)&nbsp;
+![WINDOWS](https://img.shields.io/badge/WINDOWS-31A8FF?style=flat-square&logo=windows&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;\
+![OWL](https://img.shields.io/badge/OWL-4BA270.svg?&style=flat&logo=knowledgebase&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
