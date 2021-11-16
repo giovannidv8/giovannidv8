@@ -10,10 +10,14 @@
 
 <h3 align="center"> 📌 Main Projects</h3>
 
-- [Artificial Neural Networks and Deep Learning Competitions](https://github.com/fcolombo7/AN2DL-2020)
-- [Recommender Systems Competition](https://github.com/fcolombo7/RecSys-2020)
-- [Data Intelligence Applications Project](https://github.com/fcolombo7/DataIntelligenceApplications)
-- [Software Engineering Project](https://github.com/fcolombo7/ing-sw-2019-craighero-colombo-delvecchio)
+- [Artificial Neural Networks and Deep Learning Project](https://github.com/fcolombo7/AN2DL-2020):<br> 
+
+- [Recommender Systems Project](https://github.com/fcolombo7/RecSys-2020):<br>
+
+- [Data Intelligence Applications Project](https://github.com/fcolombo7/DataIntelligenceApplications):<br>
+
+- [Software Engineering Project](https://github.com/fcolombo7/ing-sw-2019-craighero-colombo-delvecchio):<br>
+
 <br><br>
 
 <details>
