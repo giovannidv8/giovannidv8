@@ -11,13 +11,14 @@
 <h3 align="center"> 📌 Main Projects</h3>
 
 - [Artificial Neural Networks and Deep Learning Project](https://github.com/fcolombo7/AN2DL-2020):<br> 
-The project was made of three subtasks:
+The project consisted of three subtasks:
 1. Image classification: about 95% accuracy reached in classifying images with or without people wearing masks by using a fine tuned CNN and transfer learning from well known ANN architecture.
 2. Image segmentation: accomplished to reach a result of more than 0.70 in IoU metric by building a U-Net-like ANN exploiting tiling and image augmentation techniques.
 3. Visual Question Answering: about 60% accuracy reached in answering questions related to given images using LSTMs and Co-attention mechanism.<br>
 `TensorFlow` `Keras` `NumPy` `Pandas`
 - [Recommender Systems Project](https://github.com/fcolombo7/RecSys-2020):<br>
-Design of a Recommender System for an online book shop combining various kind of systems like: User based, Item based, Matrix Factorization, SLIM, Factorization Machines, Graph based.  
+Design of a Recommender System for an online book shop combining various kind of systems like: User based, Item based, Matrix Factorization, SLIM, Factorization Machines, Graph based. Exploting some Bagging and Boosting techniques (like XGBoost) our Recommender System reached a MAP@10 of 0.1015.<br>
+`NumPy` `SciPy` `Pandas` `MatPlotLib` `Matrix Factorization`
 - [Data Intelligence Applications Project](https://github.com/fcolombo7/DataIntelligenceApplications):<br>
 
 - [Software Engineering Project](https://github.com/fcolombo7/ing-sw-2019-craighero-colombo-delvecchio):<br>
