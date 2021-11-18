@@ -15,14 +15,16 @@ The project consisted of three subtasks:
 1. Image classification: about 95% accuracy reached in classifying images with or without people wearing masks by using a fine tuned CNN and transfer learning from well known ANN architecture.
 2. Image segmentation: accomplished to reach a result of more than 0.70 in IoU metric by building a U-Net-like ANN exploiting tiling and image augmentation techniques.
 3. Visual Question Answering: about 60% accuracy reached in answering questions related to given images using LSTMs and Co-attention mechanism.<br>
-`TensorFlow` `Keras` `NumPy` `Pandas`
+`TensorFlow` `Keras` `NumPy` `Pandas` `NLP`
 - [Recommender Systems Project](https://github.com/fcolombo7/RecSys-2020):<br>
-Design of a Recommender System for an online book shop combining various kind of systems like: User based, Item based, Matrix Factorization, SLIM, Factorization Machines, Graph based. Exploting some Bagging and Boosting techniques (like XGBoost) our Recommender System reached a MAP@10 of 0.1015.<br>
-`NumPy` `SciPy` `Pandas` `MatPlotLib` `Matrix Factorization`
+Design of a Recommender System for an online book shop combining various kind of systems like: User based, Item based, Matrix Factorization, SLIM, Factorization Machines, Graph based. Exploiting some Bagging and Boosting techniques (like XGBoost) our Recommender System reached a MAP@10 of 0.1015.<br>
+`NumPy` `SciPy` `Pandas` `MatPlotLib` `Cython` `Matrix Factorization`
 - [Data Intelligence Applications Project](https://github.com/fcolombo7/DataIntelligenceApplications):<br>
-
+Accomplished to yield the optimal combinations of advertising cost per click and pricing strategy for a discrete set of customers categories by tuning and combining different online Multi Armed Bandit algorithms such as UCB-like bandits, Thompson sampling bandits and Gaussian Processes bandits.<br>
+`Scikit-learn` `MatPlotLib` `NumPy` `MAB` 
 - [Software Engineering Project](https://github.com/fcolombo7/ing-sw-2019-craighero-colombo-delvecchio):<br>
-
+Digitalization of a boardgame called Adrenalina in Java language. Implementation through Object Oriented Programming classical patterns like MVC. Design of multiplayer mode using Socket and RMI for client/server communication. Built two different User Interfaces: one implemented with JavaFX and the the other in a CLI style.<br>
+`Java` `OOP` `MVC` `client/server` `UI`
 <br><br>
 
 <details>
