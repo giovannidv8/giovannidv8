@@ -20,7 +20,7 @@ The project consisted of three subtasks:
 Design of a Recommender System for an online book shop combining various kind of systems like: User based, Item based, Matrix Factorization, SLIM, Factorization Machines, Graph based. Exploiting some Bagging and Boosting techniques (like XGBoost) our Recommender System reached a MAP@10 of 0.1015.<br>
 `NumPy` `SciPy` `Pandas` `MatPlotLib` `Cython` `Matrix Factorization`
 - [Data Intelligence Applications Project](https://github.com/fcolombo7/DataIntelligenceApplications):<br>
-Accomplished to yield the optimal combinations of advertising cost per click and pricing strategy for a discrete set of customers categories by tuning and combining different online Multi Armed Bandit algorithms such as UCB-like bandits, Thompson sampling bandits and Gaussian Processes bandits.<br>
+Accomplished to yield the optimal combinations of advertising cost per click and pricing strategies in a virtual scenario assessing the goal through CTR and conversion rate metrics, for a discrete set of customers categories, by tuning and combining different online Multi Armed Bandit algorithms such as UCB-like bandits, Thompson sampling bandits and Gaussian Processes bandits.<br>
 `Scikit-learn` `MatPlotLib` `NumPy` `MAB` 
 - [Software Engineering Project](https://github.com/fcolombo7/ing-sw-2019-craighero-colombo-delvecchio):<br>
 Digitalization of a boardgame called Adrenalina in Java language. Implementation through Object Oriented Programming classical patterns like MVC. Design of multiplayer mode using Socket and RMI for client/server communication. Built two different User Interfaces: one implemented with JavaFX and the the other in a CLI style.<br>
